@@ -6,4 +6,4 @@ ConvLSTM-Inclusive and Exclusive.ipynb: Contains the code for the inclusive and 
 
 Generate-Sequences-ConvLSTM-Inclusive and Exclusive.ipynb: Contains the code for generating the SM every hour
 
-The Code.zip file contains the three files in one compressed archieve.
+The Code.zip file contains the same three files in one compressed archieve.
